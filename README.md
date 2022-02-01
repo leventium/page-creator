@@ -17,6 +17,6 @@
 
 ## Примечания
 В ```requirements.txt``` прописаны зависимости проекта, для их установки используйте
-```bash
-pip install requirements.txt
+```
+pip install -r requirements.txt
 ```
