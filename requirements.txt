@@ -1,0 +1,10 @@
+certifi==2021.10.8
+charset-normalizer==2.0.10
+gql==3.0.0
+graphql-core==3.2.0
+idna==3.3
+multidict==6.0.2
+requests==2.27.1
+requests-toolbelt==0.9.1
+urllib3==1.26.8
+yarl==1.7.2
